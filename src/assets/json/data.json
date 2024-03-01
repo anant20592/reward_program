@@ -1,0 +1,44 @@
+[
+  {
+    "userId": 1,
+    "username": "User 1",
+    "transactions": [
+      { "id": 1, "amount": 110, "date": "20-Jan-2024" },
+      { "id": 2, "amount": 101, "date": "20-Jan-2024" },
+      { "id": 3, "amount": 200, "date": "20-Jan-2024" },
+      { "id": 4, "amount": 50, "date": "20-Feb-2024" },
+      { "id": 5, "amount": 220, "date": "20-Feb-2024" },
+      { "id": 6, "amount": 140, "date": "20-Mar-2024" },
+      { "id": 7, "amount": 160, "date": "20-Mar-2024" }
+    ],
+    "months": ["Jan", "Feb", "Mar"]
+  },
+  {
+    "userId": 2,
+    "username": "User 2",
+    "transactions": [
+      { "id": 1, "amount": 120, "date": "20-Jan-2024" },
+      { "id": 2, "amount": 100, "date": "20-Jan-2024" },
+      { "id": 3, "amount": 90, "date": "20-Jan-2024" },
+      { "id": 4, "amount": 500, "date": "20-Feb-2024" },
+      { "id": 5, "amount": 220, "date": "20-Feb-2024" },
+      { "id": 6, "amount": 130, "date": "20-Mar-2024" },
+      { "id": 7, "amount": 170, "date": "20-Mar-2024" }
+    ],
+    "months": ["Jan", "Feb", "March"]
+  },
+  {
+    "userId": 3,
+    "username": "User 3",
+    "transactions": [
+      { "id": 1, "amount": 12, "date": "20-Jan-2024" },
+      { "id": 2, "amount": 100, "date": "20-Jan-2024" },
+      { "id": 3, "amount": 190, "date": "20-Jan-2024" },
+      { "id": 4, "amount": 400, "date": "20-Feb-2024" },
+      { "id": 5, "amount": 250, "date": "20-Feb-2024" },
+      { "id": 6, "amount": 130, "date": "20-Mar-2024" },
+      { "id": 7, "amount": 170, "date": "20-Mar-2024" }
+    ],
+    "months": ["Jan", "Feb", "March"]
+  }
+]
